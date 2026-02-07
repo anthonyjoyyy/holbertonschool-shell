@@ -1,1 +1,1 @@
-This script prints the current working directory
+Task 0: Script to print current directory

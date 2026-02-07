@@ -1,1 +1,1 @@
-This is my shell project repo
+Shell basics repository
