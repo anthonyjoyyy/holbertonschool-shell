@@ -15,3 +15,4 @@ This folder contains scripts related to shell permissions.
 13-change_group: Changes the group owner to school for the file hello.
 14-change_owner_and_group: Changes owner to vincent and group to staff for all files/dirs.
 15-symbolic_link_permissions: Changes the owner and group owner of the symbolic link _hello.
+16-if_only: Changes the owner of hello to vincent only if it is owned by guillaume.
