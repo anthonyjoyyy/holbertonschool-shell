@@ -11,3 +11,4 @@ This folder contains scripts related to shell permissions.
 9-John_Doe: Sets the permissions of hello to 753 (-rwxr-x-wx)
 10-mirror_permissions: Sets the mode of hello the same as ollehs mode.
 11-directories_permissions: Adds execute permission to all subdirectories in the current directory.
+12-directory_permissions: Creates a directory called my_dir with permissions 751.
