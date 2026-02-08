@@ -10,3 +10,4 @@ This folder contains scripts related to shell permissions.
 8-James_Bond: Sets permissions to 007 (none for owner/group, all for others) for the file hello.
 9-John_Doe: Sets the permissions of hello to 753 (-rwxr-x-wx)
 10-mirror_permissions: Sets the mode of hello the same as ollehs mode.
+11-directories_permissions: Adds execute permission to all subdirectories in the current directory.
